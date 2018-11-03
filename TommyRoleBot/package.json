@@ -1,0 +1,10 @@
+{
+  "name": "TommyRoleBot",
+  "version": "1.0.0",
+  "description": "Role Call Manager Bot",
+  "main": "bot2.js",
+  "author": "Tommy",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
