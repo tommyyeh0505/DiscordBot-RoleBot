@@ -1,0 +1,11 @@
+Install nodejs
+cmd directory of bot2.js
+cmd node bot2.js
+type !rolecall into chat
+add emoji to a message
+type !fire
+
+problems:
+1. doesnt retrieve the right id for rolecallmessage sometimes and just deletes the wrong mesage
+2. current emojis are stored by each emoji entry with no user category
+3. fire sometimes doesnt do anything
